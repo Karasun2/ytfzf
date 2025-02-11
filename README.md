@@ -1,6 +1,6 @@
 # NOTICE
 
-text in br2
+br2 seccond text cange
 
 This project is no longer actively maintained, it should still work for the foreseeable future
 
