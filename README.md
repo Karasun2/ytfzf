@@ -1,6 +1,6 @@
 # NOTICE
 
-sec text
+br1 third text
 
 This project is no longer actively maintained, it should still work for the foreseeable future
 
