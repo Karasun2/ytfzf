@@ -1,6 +1,6 @@
 # NOTICE
 
-new text
+sec text
 
 This project is no longer actively maintained, it should still work for the foreseeable future
 
