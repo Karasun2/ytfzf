@@ -1,6 +1,6 @@
 # NOTICE
 
-br2 seccond text cange
+br2 last commit text
 
 This project is no longer actively maintained, it should still work for the foreseeable future
 
