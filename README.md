@@ -1,6 +1,10 @@
 # NOTICE
 
+<<<<<<< HEAD
 br2 last commit text
+=======
+br2 last commit text
+>>>>>>> branch1
 
 This project is no longer actively maintained, it should still work for the foreseeable future
 
