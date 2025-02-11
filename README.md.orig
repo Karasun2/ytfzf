@@ -1,8 +1,10 @@
 # NOTICE
 
+<<<<<<< HEAD
+br2 last commit text
+=======
 br1 third text
-
-another change
+>>>>>>> branch1
 
 This project is no longer actively maintained, it should still work for the foreseeable future
 
